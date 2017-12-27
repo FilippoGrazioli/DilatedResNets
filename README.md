@@ -17,7 +17,6 @@ Pytorch implementation of https://www.cs.princeton.edu/~funk/drn.pdf
 
 (b) Create a folder for the dataset with the following structure:
 
-.
     ├──
     ├── images                    
     │   ├── test              # Training sample images
