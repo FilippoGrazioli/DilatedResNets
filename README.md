@@ -34,4 +34,4 @@ Pytorch implementation of https://www.cs.princeton.edu/~funk/drn.pdf
 Note: you can also download pre-trained models, just set --pretrained tag as True. It will download the weights from the Princeton website.
 
 # Inference
-TODO: I still have to write a main_inference.py script where you can run a model your trianed on a setof images.
+TODO: I still have to write a main_inference.py script where you can run a model you trained on a set of images.
