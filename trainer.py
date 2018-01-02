@@ -92,7 +92,7 @@ class Trainer(object):
 
             if step % self.log_freq == 0:
                 self.log(epoch, step)
-            print(int(progress))
+
             if int(progress) == 1 and epoch % 5 == 0:
                 self.log(epoch, step)
                 self.validate(epoch, eval_score=accuracy)
