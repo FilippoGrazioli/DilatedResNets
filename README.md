@@ -29,7 +29,7 @@ Pytorch implementation of https://www.cs.princeton.edu/~funk/drn.pdf
     └── ...
     
 
-Now just a little bit of pre-processing since you won't need all the stuff you just downloaded. For images/test, images/train, images/val, you'll have a folder for each city (Aachen, Zuerich, etc.). Remove the city folders, so that you eventualy have:
+Now, just a little bit of pre-processing, since you won't need all the stuff you just downloaded. For images/test, images/train, images/val, you'll have a folder for each city (Aachen, Zuerich, etc.). Remove the city folders, so that you eventualy have:
 
 images/test/aachen_000000_000019_leftImg8bit.png 
 
