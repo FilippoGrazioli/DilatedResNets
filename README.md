@@ -11,7 +11,7 @@ Pytorch implementation of https://www.cs.princeton.edu/~funk/drn.pdf
 + OpenCV
 + Anaconda packages
 
-# Train [For road segmentation]
+# Training [For road segmentation]
 
 (a) Download the "fine" cityscapes dataset: https://www.cityscapes-dataset.com/
 
